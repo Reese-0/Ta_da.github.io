@@ -10,7 +10,7 @@ Reese的随想与技术总结
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{post.baseurl}}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>

@@ -1,2 +1,2 @@
 theme: jekyll-theme-architect
-permalink: /:categories/:title
+permalink: /:categories/:title/

@@ -1,6 +1,6 @@
 ---
 title: 本地GitHub Page模板
-categories: jekyll
+categories: Jekyll
 ---
 
 

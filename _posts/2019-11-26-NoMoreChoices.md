@@ -17,6 +17,12 @@ categories: Website
 
 Typora & Notepad++
 
+### 压缩
+
+Bandizip 韩国 转成收费了
+
+PeaZip
+
 ## 生活
 
 ### 饮食

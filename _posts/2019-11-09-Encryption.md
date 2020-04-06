@@ -12,3 +12,8 @@ ECC椭圆曲线加密算法 RSA算法
 [转发自频道 (:3[____]]
 加密学
 https://intensecrypto.org/public/
+
+GPG
+
+[阮一峰GPG入门教程](http://www.ruanyifeng.com/blog/2013/07/gpg.html)
+

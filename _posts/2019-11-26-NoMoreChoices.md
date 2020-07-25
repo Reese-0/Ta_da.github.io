@@ -27,6 +27,10 @@ PeaZip
 
 Mega.nz
 
+### 恢复
+
+Windows File Recovery
+
 ### Coding
 
 | 名称   | 简介                  |

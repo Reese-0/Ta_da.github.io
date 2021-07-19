@@ -1,0 +1,24 @@
+- [菲菲影视](https://lm.didibib.ml/) 
+- [ck影院](https://www.ckvod.com/) 
+- [播播影院](https://www.bobo11.com/) 
+- [奈菲影视](https://www.nfmovies.com/) Netflix
+- [完美看看](https://www.wanmeikk.me/)
+- [人人](http://www.rrys.tv/) 
+- [看番吧](https://akcp.kanfanba.com/) **番**
+- [小兵播放](https://www.xbplay.com/) 
+- [独播库](https://www.duboku.net/) 
+- [茶杯狐](https://www.cupfox.com/) 
+- [Gimy剧迷](https://cn.gimy.tv/) 
+- [田鸡影院](http://www.tianjiyy123.com/) 
+- [爱电影](http://www.idy667.com/) 
+- [神马影院](https://www.abminbuy.com/) 
+- [六点影视](http://www.ldssz.com/) 
+- [低端影视](https://ddrk.me/)  WordPress 搭建的
+- [疯狂影视](http://ifkdy.com/) 
+- [乐影网](https://ler.app/) 
+- https://www.qianyicp.com/jiexi/index.php?url=视频链接 蓝光解析
+- [91TV](https://91-tv.me/) 电视软件
+- [嘀哩哩](https://www.dililitv.com/) 
+- http://jx.youlebe.com/?v=影视名字 影视接口
+- [电影先生](http://dianying.im/) 
+- 
